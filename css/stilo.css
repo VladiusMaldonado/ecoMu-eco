@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    
+}
+
+#principal{
+    margin: auto;
+    margin-top: 30px;
+    border-style: solid;
+    width: 600px;
+    height: 600px;
+    background-color: yellow;
+    border-radius: 30px;
+}
+
+#caja1{
+    width: 560px;
+    height: 100px;
+    background-color: aqua;
+}
+#caja2{
+    width: 560px;
+    height: 100px;
+    background-color: darksalmon;
+}
+#caja3{
+    width: 200px;
+    height: 200px;
+    background-color:green;
+    float: left;
+    border-radius: 10px;
+}
+#caja4{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-color: purple;
+    float: right;
+}
+#caja11{
+    width: 200px;
+    height: 50px;
+    background-color: purple;
+}
+#cuerpo{
+    margin: auto;
+    margin-top: 30px;
+    border-style: solid;
+    width: 600px;
+    height: 675px;
+    background-color: yellow;
+    border-radius: 30px;
+}
+#cabeza{
+    border-style: solid;
+    margin-left: 35%;
+    border-radius: 500px;
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+}
+#ojoI{
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+    border-radius: 500px;
+    border: solid;
+}
+#ojoD{
+    margin-top: -35px;
+    margin-left: 90px;
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+    border-radius: 500px;
+    border: solid;
+}
+#nariz{
+    margin-top: 2px;
+    margin-left: 60px;
+    width: 50px;
+    height: 10px;
+    background-color: blue;
+    border-radius: 500%;
+    border: solid;
+}
+
+
+#centro{
+    border-style: solid;
+    border-radius: 500px;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin-left: 30%;
+}
+#soporte{
+    border-style: solid;
+    border-radius: 500px;
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+    margin-left: 22%;
+}
